@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "写作模板.md",
+                "file": "社会主义经济理论习题.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "写作模板.md",
+                "file": "社会主义经济理论习题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "写作模板.md",
+                "file": "社会主义经济理论习题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "写作模板.md"
+                "file": "社会主义经济理论习题.md"
               }
             }
           }
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,10 +157,11 @@
   "active": "ee021d75e559afe8",
   "lastOpenFiles": [
     "西方经济学习题.md",
+    "构词.md",
+    "写作模板.md",
     "西方经济学-计算题.md",
     "术语.md",
     "数学.md",
-    "写作模板.md",
     "财政学习题.md",
     "财政学.md",
     "README.md",
@@ -183,7 +183,6 @@
     "img/exercises/finance",
     "货币银行学习题.md",
     "img/exercises/currency/2-1.png.md",
-    "构词.md",
     "贴现.md",
     "img/exercises/micro/png.md",
     "img/exercises/micro",
