@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "西方经济学习题.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "西方经济学习题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "西方经济学习题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "西方经济学习题.md"
               }
             }
           }
@@ -151,22 +151,23 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
     }
   },
   "active": "8f84a53bfba87037",
   "lastOpenFiles": [
+    "西方经济学-计算题.md",
+    "西方经济学习题.md",
+    "社会主义经济理论习题.md",
+    "README.md",
     "().md",
     "财政学.md",
-    "README.md",
     "流程.md",
-    "社会主义经济理论习题.md",
     "术语.md",
     "数学.md",
-    "西方经济学习题.md",
     "构词.md",
     "写作模板.md",
-    "西方经济学-计算题.md",
     "财政学习题.md",
     "国际经济学习题.md",
     "img/exercises/international/9-1.png",
