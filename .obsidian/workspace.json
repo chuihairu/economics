@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e70132389cf6a3ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "构词.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,19 +168,20 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8f84a53bfba87037",
+  "active": "e70132389cf6a3ec",
   "lastOpenFiles": [
+    "词汇题型.md",
+    "README.md",
+    "构词.md",
     "写作模板.md",
     "西方经济学习题.md",
     "西方经济学-计算题.md",
     "社会主义经济理论习题.md",
-    "README.md",
     "().md",
     "财政学.md",
     "流程.md",
     "术语.md",
     "数学.md",
-    "构词.md",
     "财政学习题.md",
     "国际经济学习题.md",
     "img/exercises/international/9-1.png",
