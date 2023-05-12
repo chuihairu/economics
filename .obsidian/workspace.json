@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "写作模板.md",
+                "file": "构词.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "写作模板.md",
+                "file": "构词.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "写作模板.md",
+                "file": "构词.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "写作模板.md"
+                "file": "构词.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "8f84a53bfba87037",
   "lastOpenFiles": [
+    "写作模板.md",
     "西方经济学习题.md",
     "西方经济学-计算题.md",
     "社会主义经济理论习题.md",
@@ -167,7 +168,6 @@
     "术语.md",
     "数学.md",
     "构词.md",
-    "写作模板.md",
     "财政学习题.md",
     "国际经济学习题.md",
     "img/exercises/international/9-1.png",
