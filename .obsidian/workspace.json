@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "术语.md",
+                "file": "西方经济学习题.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "术语.md",
+                "file": "西方经济学习题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "术语.md",
+                "file": "西方经济学习题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "术语.md"
+                "file": "西方经济学习题.md"
               }
             }
           }
@@ -170,6 +170,7 @@
   },
   "active": "e70132389cf6a3ec",
   "lastOpenFiles": [
+    "术语.md",
     "构词.md",
     "词汇题型.md",
     "README.md",
@@ -180,7 +181,6 @@
     "().md",
     "财政学.md",
     "流程.md",
-    "术语.md",
     "数学.md",
     "财政学习题.md",
     "国际经济学习题.md",
