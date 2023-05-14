@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "术语.md",
+                "file": "货币银行学习题.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "术语.md",
+                "file": "货币银行学习题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "术语.md",
+                "file": "货币银行学习题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "术语.md"
+                "file": "货币银行学习题.md"
               }
             }
           }
@@ -182,12 +182,15 @@
   },
   "active": "cae0a22d7fd9c114",
   "lastOpenFiles": [
-    "同义词替换.md",
-    "西方经济学习题.md",
-    "术语.md",
-    "构词.md",
+    "国际经济学习题.md",
+    "财政学习题.md",
     "词汇题型.md",
     "README.md",
+    "货币银行学习题.md",
+    "术语.md",
+    "同义词替换.md",
+    "西方经济学习题.md",
+    "构词.md",
     "写作模板.md",
     "西方经济学-计算题.md",
     "社会主义经济理论习题.md",
@@ -195,8 +198,6 @@
     "财政学.md",
     "流程.md",
     "数学.md",
-    "财政学习题.md",
-    "国际经济学习题.md",
     "img/exercises/international/9-1.png",
     "img/exercises/international/8-3.png",
     "img/exercises/international/8-2.png",
@@ -211,7 +212,6 @@
     "img/exercises/international",
     "img/exercises/新建文件夹",
     "img/exercises/finance",
-    "货币银行学习题.md",
     "img/exercises/currency/2-1.png.md",
     "贴现.md",
     "img/exercises/micro/png.md",
