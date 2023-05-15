@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,14 +183,14 @@
   },
   "active": "cae0a22d7fd9c114",
   "lastOpenFiles": [
+    "货币银行学习题.md",
+    "README.md",
+    "同义词替换.md",
     "写作模板.md",
     "构词.md",
-    "同义词替换.md",
-    "货币银行学习题.md",
     "国际经济学习题.md",
     "财政学习题.md",
     "词汇题型.md",
-    "README.md",
     "术语.md",
     "西方经济学习题.md",
     "西方经济学-计算题.md",
