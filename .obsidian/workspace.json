@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b6fd8999722c7c4f",
+        "id": "0363496ccbb0dd94",
         "type": "tabs",
         "children": [
           {
-            "id": "8f84a53bfba87037",
+            "id": "7fed16d76bf79fc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,18 @@
             }
           },
           {
-            "id": "e70132389cf6a3ec",
+            "id": "4e4f0a9f8a706062",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "西方经济学习题.md",
+                "file": "西方经济学-精要.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -165,24 +168,32 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a3729c8c57ddbb2c",
+  "active": "7fed16d76bf79fc2",
   "lastOpenFiles": [
-    "财政学习题.md",
-    "财政学.md",
-    "货币银行学习题.md",
-    "同义词替换.md",
+    "国际经济学-精要.md",
     "README.md",
-    "写作模板.md",
-    "构词.md",
-    "国际经济学习题.md",
-    "词汇题型.md",
-    "术语.md",
-    "西方经济学习题.md",
-    "西方经济学-计算题.md",
-    "社会主义经济理论习题.md",
+    "西方经济学-精要.md",
+    "国际经济学-习题.md",
     "().md",
+    "构词.md",
+    "财政学-笔记.md",
+    "财政学-习题.md",
+    "经济学术语.md",
+    "数学基础.md",
+    "同义词替换.md",
+    "微观经济学-笔记.md",
+    "西方经济学导论-笔记.md",
+    "金融学-笔记.md",
+    "写作模板.md",
+    "货币银行学-习题.md",
+    "货币银行学-精要.md",
+    "宏观经济学-笔记.md",
+    "西方经济学-习题.md",
+    "社会主义经济理论-精要.md",
+    "社会主义经济理论-习题.md",
+    "西方经济学-计算题.md",
+    "词汇题型.md",
     "流程.md",
-    "数学.md",
     "img/exercises/international/9-1.png",
     "img/exercises/international/8-3.png",
     "img/exercises/international/8-2.png",
@@ -198,20 +209,12 @@
     "img/exercises/新建文件夹",
     "img/exercises/finance",
     "img/exercises/currency/2-1.png.md",
-    "贴现.md",
-    "img/exercises/micro/png.md",
     "img/exercises/micro",
     "img/exercises/ecomices",
     "img/exercises/currency",
     "img/exercises",
     "img/新建文件夹",
-    "金融学.md",
-    "宏观经济学.md",
-    "微观经济学.md",
-    "西方经济学导论.md",
-    "Pasted image 20230330162327.png.md",
     "img/introduction/3",
-    "img/introduction/新建文件夹",
-    "![[Pasted.md"
+    "img/introduction/新建文件夹"
   ]
 }
