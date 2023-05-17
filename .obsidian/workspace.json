@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "同义词替换.md",
+                "file": "写作模板.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "同义词替换.md",
+                "file": "写作模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "同义词替换.md",
+                "file": "写作模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "同义词替换.md"
+                "file": "写作模板.md"
               }
             }
           }
@@ -170,6 +170,7 @@
   },
   "active": "7fed16d76bf79fc2",
   "lastOpenFiles": [
+    "同义词替换.md",
     "README.md",
     "写作模板.md",
     "国际经济学-精要.md",
@@ -181,7 +182,6 @@
     "财政学-习题.md",
     "经济学术语.md",
     "数学基础.md",
-    "同义词替换.md",
     "微观经济学-笔记.md",
     "西方经济学导论-笔记.md",
     "金融学-笔记.md",
