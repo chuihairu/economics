@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "写作模板.md",
+                "file": "同义词替换.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4e4f0a9f8a706062",
+            "id": "2d9e8f87c4a55e64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "西方经济学-精要.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "写作模板.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "写作模板.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "写作模板.md"
+                "file": "README.md"
               }
             }
           }
@@ -168,10 +169,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7fed16d76bf79fc2",
+  "active": "2d9e8f87c4a55e64",
   "lastOpenFiles": [
-    "同义词替换.md",
+    "阅读理解.md",
     "README.md",
+    "同义词替换.md",
     "写作模板.md",
     "国际经济学-精要.md",
     "西方经济学-精要.md",
@@ -208,7 +210,6 @@
     "img/exercises/international",
     "img/exercises/新建文件夹",
     "img/exercises/finance",
-    "img/exercises/currency/2-1.png.md",
     "img/exercises/micro",
     "img/exercises/ecomices",
     "img/exercises/currency",
