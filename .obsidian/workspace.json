@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "同义词替换.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d9e8f87c4a55e64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "西方经济学-习题.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "西方经济学-习题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "西方经济学-习题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "西方经济学-习题.md"
               }
             }
           }
@@ -169,15 +156,16 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "2d9e8f87c4a55e64",
+  "active": "7fed16d76bf79fc2",
   "lastOpenFiles": [
-    "阅读理解.md",
-    "README.md",
-    "同义词替换.md",
     "写作模板.md",
-    "国际经济学-精要.md",
-    "西方经济学-精要.md",
+    "README.md",
     "国际经济学-习题.md",
+    "社会主义经济理论-习题.md",
+    "阅读理解.md",
+    "同义词替换.md",
+    "西方经济学-精要.md",
+    "国际经济学-精要.md",
     "().md",
     "构词.md",
     "财政学-笔记.md",
@@ -192,7 +180,6 @@
     "宏观经济学-笔记.md",
     "西方经济学-习题.md",
     "社会主义经济理论-精要.md",
-    "社会主义经济理论-习题.md",
     "西方经济学-计算题.md",
     "词汇题型.md",
     "流程.md",
