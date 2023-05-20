@@ -14,5 +14,9 @@
   "useMarkdownLinks": true,
   "spellcheck": true,
   "strictLineBreaks": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en"
+  ]
 }

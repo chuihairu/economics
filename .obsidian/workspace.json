@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0363496ccbb0dd94",
+        "id": "1812f1122d8c2481",
         "type": "tabs",
         "children": [
           {
-            "id": "7fed16d76bf79fc2",
+            "id": "64cf53d4645ad516",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "写作模板.md",
+                "file": "同义词替换.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "写作模板.md",
+                "file": "同义词替换.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "写作模板.md",
+                "file": "同义词替换.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "写作模板.md"
+                "file": "同义词替换.md"
               }
             }
           }
@@ -156,28 +156,28 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7fed16d76bf79fc2",
+  "active": "64cf53d4645ad516",
   "lastOpenFiles": [
-    "国际经济学-习题.md",
-    "README.md",
-    "经济学术语.md",
-    "西方经济学-计算题.md",
-    "阅读理解.md",
-    "写作模板.md",
-    "西方经济学-习题.md",
-    "社会主义经济理论-习题.md",
     "同义词替换.md",
-    "西方经济学-精要.md",
-    "国际经济学-精要.md",
-    "().md",
     "构词.md",
-    "财政学-笔记.md",
-    "财政学-习题.md",
-    "数学基础.md",
+    "西方经济学-习题.md",
+    "西方经济学-精要.md",
+    "西方经济学-计算题.md",
     "微观经济学-笔记.md",
     "西方经济学导论-笔记.md",
-    "金融学-笔记.md",
+    "README.md",
+    "财政学-笔记.md",
+    "写作模板.md",
     "货币银行学-习题.md",
+    "国际经济学-习题.md",
+    "经济学术语.md",
+    "阅读理解.md",
+    "社会主义经济理论-习题.md",
+    "国际经济学-精要.md",
+    "().md",
+    "财政学-习题.md",
+    "数学基础.md",
+    "金融学-笔记.md",
     "货币银行学-精要.md",
     "宏观经济学-笔记.md",
     "社会主义经济理论-精要.md",
